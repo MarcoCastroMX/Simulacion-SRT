@@ -1,0 +1,10 @@
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\bin\Debug\Actividad 5 SRT.exe.config
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\bin\Debug\Actividad 5 SRT.exe
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\bin\Debug\Actividad 5 SRT.pdb
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\obj\Debug\Actividad 5 SRT.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\obj\Debug\Actividad_5_SRT.Properties.Resources.resources
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\obj\Debug\Actividad 5 SRT.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\obj\Debug\Actividad 5 SRT.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\obj\Debug\Actividad 5 SRT.exe
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\obj\Debug\Actividad 5 SRT.pdb
+C:\Users\marco\OneDrive\Escritorio\Actividad 5 SRT\obj\Debug\Actividad_5_SRT.Main.resources
